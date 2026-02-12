@@ -1,0 +1,8 @@
+
+{
+  "name": "Urim & Tummin",
+  "description": "A divine real-time translation and correction assistant for handwritten text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

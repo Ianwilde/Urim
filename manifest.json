@@ -1,0 +1,24 @@
+
+{
+  "short_name": "UrimTummin",
+  "name": "Urim & Tummin AI",
+  "description": "A divine real-time translation and correction assistant for handwritten text.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5903/5903823.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5903/5903823.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
